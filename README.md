@@ -13,3 +13,4 @@ Domains grabbed from the following repositories.
 - https://github.com/andreis/disposable-email-domains
 - https://github.com/kslr/disposable-email-domains
 - https://github.com/wesbos/burner-email-providers
+- https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
